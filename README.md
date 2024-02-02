@@ -1,8 +1,8 @@
-Statistics Notes
+## Statistics Notes ##
 Overview
 This repository contains notes on statistics, a science that involves collecting, organizing, and analyzing data. Statistics is crucial for understanding and drawing conclusions from data.
 
-Contents
+## Contents
 
 ## Definition:
 Statistics: The science of collecting, organizing, and analyzing data.
